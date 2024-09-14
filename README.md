@@ -8,7 +8,7 @@ Testes: Gustavo Giroto</h3>
 
 No seu terminal, execute o seguinte comando para clonar o repositório:
 
-git clone https://github.com/gabriel-gelbcke/AJornadaDaConquista
+git clone https://github.com/anton-neto/JornadaDaConquista
 
 <h2>2. Abra o Projeto no Android Studio</h2>
 
